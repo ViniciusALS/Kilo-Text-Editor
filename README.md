@@ -2,11 +2,20 @@
 
 > This project comes from the [Kilo Text Editor Tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) by Paige and Antirez.
 
-> Welcome page
-> ![Kilo Editor Welcome Page](.github/pictures/kilo_editor_standalone.png)
+<p align="center">
+    Welcome page
 
-> Editing a code file
-> ![Kilo Editor file](.github/pictures/kilo_editor_file.png)
+<img width="500" src=".github/pictures/kilo_editor_standalone.png" alt="Kilo Editor Welcome Page">
+</p>
+
+
+<p align="center">
+    Editing a code file
+
+<img width="500" src=".github/pictures/kilo_editor_file.png" alt="Kilo Editor File Page">
+</p>
+
+
 
 The Project is written in C and showcases the basic tools of a text editor like:
 
