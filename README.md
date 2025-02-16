@@ -13,7 +13,7 @@
 The Project is written in C and showcases the basic tools of a text editor like:
 
 * Creating, opening, editing, and saving files
-* Basic syntax highlighting for code thriggered by filetype detecting.
+* Basic syntax highlighting for code triggered by filetype detecting.
 
 The project is loosely inspired by emacs and is run on the terminal.
 
@@ -31,13 +31,13 @@ Go to its directory
 cd Kilo-Text-Editor
 ```
 
-And compile to project
+And compile the project
 
 ```prompt
 make
 ```
 
-To use the text editor, you can either execute it by itself or pass a file as argument that you wish to edit.
+To use the text editor, you can either execute it by itself or pass a file that you wish to edit as argument.
 
 ```prompt
 ./kilo
@@ -49,7 +49,7 @@ or
 ./kilo testFiles/testCodeFile.c
 ```
 
-When ran by itself, Kilo can creates a new file.
+When run by itself, Kilo can create a new file.
 
 ## Hot Keys
 
