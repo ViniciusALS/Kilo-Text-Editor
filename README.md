@@ -1,6 +1,6 @@
 # Kilo Text Editor
 
-> This project comes from the [Kilo Text Editor Tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) by Paige and Antirez.
+> This project is based on the [Kilo Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html) by Paige and Antirez.
 
 <p align="center">Welcome page</p>
 <p align="center"><img width="500" src=".github/pictures/kilo_editor_standalone.png" alt="Kilo Editor Welcome Page"></p>
