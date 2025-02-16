@@ -3,11 +3,11 @@
 > This project comes from the [Kilo Text Editor Tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) by Paige and Antirez.
 
 <p align="center">Welcome page</p>
-<img align="center" width="500" src=".github/pictures/kilo_editor_standalone.png" alt="Kilo Editor Welcome Page">
+<p align="center"><img width="500" src=".github/pictures/kilo_editor_standalone.png" alt="Kilo Editor Welcome Page"></p>
 
 
 <p align="center">Editing a code file</p>
-<img align="center" width="500" src=".github/pictures/kilo_editor_file.png" alt="Kilo Editor File Page">
+<p align="center"><img width="500" src=".github/pictures/kilo_editor_file.png" alt="Kilo Editor File Page"></p>
 
 
 The Project is written in C and showcases the basic tools of a text editor like:
