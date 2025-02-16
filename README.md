@@ -51,7 +51,7 @@ or
 
 When ran by itself, Kilo can creates a new file.
 
-## Commands
+## Hot Keys
 
 | Action                 | Command                     | Observation                   |
 | ---------------------- | --------------------------- | ----------------------------- |
